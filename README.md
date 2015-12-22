@@ -1,4 +1,5 @@
 # Loklak API
+[![Build Status](https://travis-ci.org/sudheesh001/loklak-node.svg?branch=master)](https://travis-ci.org/sudheesh001/loklak-node)
 Node.js wrapper for loklak.org API - [distributed tweet search server](https://github.com/loklak/loklak_server)
 ## Install
 ```
