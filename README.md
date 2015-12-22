@@ -40,8 +40,6 @@ loklak.search({q: 'Code-in'}, function (data) { console.log(data); })
 ```
 
 ## Contact
-Send me a message in Telegram: [@sevazhidkov](https://telegram.me/sevazhidkov).
+Send me a message in Telegram: [@sevazhidkov](https://telegram.me/sevazhidkov). or [@sudheesh001](https://telegram.me/sudheesh001)
 
-Or in Twitter: [@sevazhidkov](https://twitter.com/sevazhidkov).
-
-Or E-mail: [zhidkovseva@gmail.com](mailto:zhidkovseva@gmail.com).
+Or in Twitter: [@sevazhidkov](https://twitter.com/sevazhidkov). [@sudheesh001](https://twitter.com/sudheesh001)
