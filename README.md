@@ -1,6 +1,7 @@
 # Loklak API
-[![Build Status](https://travis-ci.org/sudheesh001/loklak-node.svg?branch=master)](https://travis-ci.org/sudheesh001/loklak-node)
+[![Build Status](https://travis-ci.org/loklak/loklak_nodejs_api.svg?branch=master)](https://travis-ci.org/loklak/loklak_nodejs_api)
 [![Code Climate](https://codeclimate.com/github/sudheesh001/loklak-node/badges/gpa.svg)](https://codeclimate.com/github/sudheesh001/loklak-node)
+[![Dependency Status](https://gemnasium.com/badges/github.com/loklak/loklak_nodejs_api.svg)](https://gemnasium.com/github.com/loklak/loklak_nodejs_api)
 
 Node.js wrapper for loklak.org API - [distributed tweet search server](https://github.com/loklak/loklak_server)
 ## Install
