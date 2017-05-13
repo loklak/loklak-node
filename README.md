@@ -42,6 +42,10 @@ loklak.user({name: 'sevazhidkov', followers: 20, following: 20}, function (data)
 ```
 loklak.search({q: 'Code-in'}, function (data) { console.log(data); })
 ```
+### Aggregations
+```
+Loklak.aggregations({q: 'fossasia', since: '2016-01-01', fields: [hashtags,mentions]}, function (data) { console.log(data); })
+```
 
 ## Contact
 Send me a message in Telegram: [@sevazhidkov](https://telegram.me/sevazhidkov). or [@sudheesh001](https://telegram.me/sudheesh001)
