@@ -7,7 +7,7 @@ var expect = require('chai').expect(),
 
 describe('#equals', function () {
 	it('verifies that the URLs are equal', function () {
-		url = 'http://loklak.org/api/';
+		url = 'http://api.loklak.org/api/';
 		assert.equal(url, loklak.httpClient.host, 'URL is the same as production server');
 	});
 });
